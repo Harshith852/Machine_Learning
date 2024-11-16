@@ -29,9 +29,10 @@ As I continue learning, I will keep adding more models and concepts, including:
 ## Getting Started  
 
 Feel free to explore the code files for each model. Each implementation contains:  
-- **Code**: Python implementation of the model  
+- **Code**: Python implementation of the model.
 - **Datasets**: Relevant datasets used (when applicable)  
-- **Documentation**: Notes and explanations to understand the approach  
+- **Implemenation**: Implementations of the model on the Datasets.
+- **Model Accuracy**: Accuracy of the Model on the test data.
 
 ## Contributing  
 If you'd like to contribute, suggest improvements, or share insights, feel free to fork this repo and raise a pull request.  
